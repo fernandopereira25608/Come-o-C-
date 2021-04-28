@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Backend c\bin\Debug\net5.0\Backend c.exe
+C:\Users\dev\Desktop\Backend c\bin\Debug\net5.0\Backend c.deps.json
+C:\Users\dev\Desktop\Backend c\bin\Debug\net5.0\Backend c.runtimeconfig.json
+C:\Users\dev\Desktop\Backend c\bin\Debug\net5.0\Backend c.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Backend c\bin\Debug\net5.0\Backend c.dll
+C:\Users\dev\Desktop\Backend c\bin\Debug\net5.0\ref\Backend c.dll
+C:\Users\dev\Desktop\Backend c\bin\Debug\net5.0\Backend c.pdb
+C:\Users\dev\Desktop\Backend c\obj\Debug\net5.0\Backend c.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Backend c\obj\Debug\net5.0\Backend c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Backend c\obj\Debug\net5.0\Backend c.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Backend c\obj\Debug\net5.0\Backend c.AssemblyInfo.cs
+C:\Users\dev\Desktop\Backend c\obj\Debug\net5.0\Backend c.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Backend c\obj\Debug\net5.0\Backend c.dll
+C:\Users\dev\Desktop\Backend c\obj\Debug\net5.0\ref\Backend c.dll
+C:\Users\dev\Desktop\Backend c\obj\Debug\net5.0\Backend c.pdb
+C:\Users\dev\Desktop\Backend c\obj\Debug\net5.0\Backend c.genruntimeconfig.cache
